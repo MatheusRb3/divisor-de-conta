@@ -2,16 +2,16 @@ h1{
     text-align: center;
 }
 
-#inputs{
+.inputs{
     text-align: center;
     margin: 10px;
 }
 
-#inputs input{
+.inputs input{
     margin-left: 10px;
 }
 
-#inputs label{
+.inputs label{
     margin-left: 15px;
 }
 
